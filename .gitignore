@@ -1,0 +1,9 @@
+# Ignore backups and vi swap
+.*
+*~
+
+# Intermediate files
+lex.yy.c
+y.tab.c
+y.tab.h
+
